@@ -3,6 +3,6 @@ maven { url 'https://jitpack.io' }
 
   
   
-  dependencies {
-	        implementation 'com.github.joelnah:NLog:Tag'
-	}
+
+implementation 'com.github.joelnah:NLog:Tag'
+
